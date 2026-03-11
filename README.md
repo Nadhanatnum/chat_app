@@ -18,7 +18,7 @@
 - **Validation:** ระบบตรวจสอบความถูกต้องของฟอร์ม (Form Validation) แบบ Real-time
 
 ### รองรับหลายแพลตฟอร์ม
-- โค้ดมีการแยก Logic ระหว่าง **Mobile** และ **Web** (ใช้ `kIsWeb`) เพื่อให้รองรับการทำ Social Sign-in บน Browser ได้อย่างสมบูรณ์
+- โค้ดมีการแยก Logic ระหว่าง **Mobile** และ **Web** (ใช้ `kIsWeb`) เพื่อให้รองรับการทำ Social Sign-in บน Browser
 
 ## Tech Stack
 
