@@ -30,14 +30,12 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-.dart_tool/
-.packages
-.pub-cache/
-.pub/
-ios/Flutter/Generated.xcconfig
-android/key.properties
 google-services.json
 GoogleService-Info.plist
+firebase_options.dart
+.env
+auth_secrets.dart
+.DS_Store
 
 # Symbolication related
 app.*.symbols
