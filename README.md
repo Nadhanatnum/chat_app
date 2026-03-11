@@ -1,7 +1,3 @@
-# chat_app
-
-# chat_app
-
 # Chat App
 
 แอปพลิเคชันแชทที่พัฒนาด้วย Flutter SDK และ Firebase โดยเน้นการสร้างระบบยืนยันตัวตน (Authentication) ที่มีความปลอดภัย สวยงาม และรองรับการทำงานแบบ Multi-platform (Android, iOS, Web)
